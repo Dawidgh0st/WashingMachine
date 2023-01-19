@@ -3,8 +3,4 @@ public interface WashingMachines {
     boolean startingTheWashingMachine();
     String emptyingTheWashingMachine();
 
-
-
-
-
 }
